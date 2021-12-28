@@ -11,4 +11,5 @@ body {
 div {
   background-color: burlywood;
   width: 80%;
+  margin: auto auto;
 }
